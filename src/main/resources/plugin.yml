@@ -1,0 +1,11 @@
+name: RconQQShop
+version: '${project.version}'
+main: backrer.rconqqshop.rconqqshop.RconQQShop
+authors: [ BackRer ]
+description: This is a plug-in for online gift bags.
+website: https://love.backre.cn/
+commands:
+  rqs:
+    description: main commands.
+  myjoin:
+    description: player commands.
